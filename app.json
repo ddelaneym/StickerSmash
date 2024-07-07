@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ddelaneym.StickerSmash"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6ddef1cc-f4a3-45f7-bef3-99b4c4e9f062"
+      }
+    },
+    "owner": "ddelaneym"
   }
 }
